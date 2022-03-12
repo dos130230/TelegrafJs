@@ -1,2 +1,2 @@
-require('./uzbek')
-require('./russia')
+require('./uzbek.js')
+require('./russia.js')

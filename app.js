@@ -3,5 +3,5 @@ dotenv.config()
 
 require('./core')
 require('./action')
-require('./controllers/uzbek.js')
-require('./controllers/russia.js')
+require('./middlewares')
+require('./controllers')
