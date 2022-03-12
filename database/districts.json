@@ -1,0 +1,1712 @@
+[
+  {
+    "name_uz": "Yunusobod tumani",
+    "name_ru": "Юнусабад",
+    "coordinates": {
+      "lng": 69.2878059,
+      "lat": 41.3645073
+    },
+    "id": 1,
+    "cityId": 1
+  },
+  {
+    "name_uz": "Mirobod tumani",
+    "name_ru": "Мирабад",
+    "coordinates": {
+      "lng": 69.2671163,
+      "lat": 41.2962679
+    },
+    "id": 2,
+    "cityId": 1
+  },
+  {
+    "name_uz": "Olmazor tumani",
+    "name_ru": "Алмазарский",
+    "coordinates": {
+      "lng": 69.2189291,
+      "lat": 41.3503249
+    },
+    "id": 5,
+    "cityId": 1
+  },
+  {
+    "name_uz": "Mirzo Ulugʻbek tumani",
+    "name_ru": "Мирзо-Улугбекский",
+    "coordinates": {
+      "lng": 69.3389711,
+      "lat": 41.3383356
+    },
+    "id": 6,
+    "cityId": 1
+  },
+  {
+    "name_uz": "Sergeli tumani",
+    "name_ru": "Сергелийский",
+    "coordinates": {
+      "lng": 69.231245,
+      "lat": 41.2100236
+    },
+    "id": 7,
+    "cityId": 1
+  },
+  {
+    "name_uz": "Chilonzor tumani",
+    "name_ru": "Чиланзар",
+    "coordinates": {
+      "lng": 69.2040879,
+      "lat": 41.2744441
+    },
+    "id": 8,
+    "cityId": 1
+  },
+  {
+    "name_uz": "Shayxontohur tumani",
+    "name_ru": "Шайхантаур",
+    "coordinates": {
+      "lng": 69.2306548,
+      "lat": 41.316895
+    },
+    "id": 9,
+    "cityId": 1
+  },
+  {
+    "name_uz": "Yakkasaroy tumani",
+    "name_ru": "Яккасарай",
+    "coordinates": {
+      "lng": 69.2487803,
+      "lat": 41.2807051
+    },
+    "id": 10,
+    "cityId": 1
+  },
+  {
+    "name_uz": "Yashnobod tumani",
+    "name_ru": "Яшнабад",
+    "coordinates": {
+      "lng": 69.3336204,
+      "lat": 41.2831224
+    },
+    "id": 11,
+    "cityId": 1
+  },
+  {
+    "name_uz": "Bektemir tumani",
+    "name_ru": "Бектемир",
+    "coordinates": {
+      "lng": 69.3391954,
+      "lat": 41.2352846
+    },
+    "id": 12,
+    "cityId": 1
+  },
+  {
+    "name_uz": "Oqqoʻrgʻon tumani",
+    "name_ru": "Аккурганский район",
+    "coordinates": {
+      "lng": 69.0430306,
+      "lat": 40.8811727
+    },
+    "id": 14,
+    "cityId": 3
+  },
+  {
+    "name_uz": "Ohangaron tumani",
+    "name_ru": "Ахангаранский район",
+    "coordinates": {
+      "lng": 70.0747513,
+      "lat": 41.0083552
+    },
+    "id": 15,
+    "cityId": 3
+  },
+  {
+    "name_uz": "Bekobod tumani",
+    "name_ru": "Бекабадский район",
+    "coordinates": {
+      "lng": 69.2582381,
+      "lat": 40.2216486
+    },
+    "id": 16,
+    "cityId": 3
+  },
+  {
+    "name_uz": "Boʻstonliq tumani",
+    "name_ru": "Бостанлыкский район",
+    "coordinates": {
+      "lng": 69.9501733,
+      "lat": 41.6221182
+    },
+    "id": 17,
+    "cityId": 3
+  },
+  {
+    "name_uz": "Boʻka tumani",
+    "name_ru": "Букинский район",
+    "coordinates": {
+      "lng": 69.2037606,
+      "lat": 40.8137616
+    },
+    "id": 18,
+    "cityId": 3
+  },
+  {
+    "name_uz": "Zangiota tumani",
+    "name_ru": "Зангиатинский район",
+    "coordinates": {
+      "lng": 69.2053258,
+      "lat": 41.3957334
+    },
+    "id": 19,
+    "cityId": 3
+  },
+  {
+    "name_uz": "Qibray tumani",
+    "name_ru": "Кибрайский район",
+    "coordinates": {
+      "lng": 69.5901429,
+      "lat": 41.4776803
+    },
+    "id": 20,
+    "cityId": 3
+  },
+  {
+    "name_uz": "Quyi chirchiq tumani",
+    "name_ru": "Куйичирчикский район",
+    "coordinates": {
+      "lng": 68.9260483,
+      "lat": 40.8588868
+    },
+    "id": 21,
+    "cityId": 3
+  },
+  {
+    "name_uz": "Parkent tumani",
+    "name_ru": "Паркентский район",
+    "coordinates": {
+      "lng": 69.6803275,
+      "lat": 41.2939122
+    },
+    "id": 22,
+    "cityId": 3
+  },
+  {
+    "name_uz": "Piskent tumani",
+    "name_ru": "Пскентский район",
+    "coordinates": {
+      "lng": 69.5936205,
+      "lat": 40.8494809
+    },
+    "id": 23,
+    "cityId": 3
+  },
+  {
+    "name_uz": "Oʻrta Chirchiq tumani",
+    "name_ru": "Уртачирчикский район",
+    "coordinates": {
+      "lng": 69.3549711,
+      "lat": 41.0458591
+    },
+    "id": 24,
+    "cityId": 3
+  },
+  {
+    "name_uz": "Chinoz tumani",
+    "name_ru": "Чиназский район",
+    "coordinates": {
+      "lng": 68.7501824,
+      "lat": 40.9454773
+    },
+    "id": 25,
+    "cityId": 3
+  },
+  {
+    "name_uz": "Yuqori Chirchiq tumani",
+    "name_ru": "Юкоричирчикский район",
+    "coordinates": {
+      "lng": 69.5295802,
+      "lat": 41.3135629
+    },
+    "id": 26,
+    "cityId": 3
+  },
+  {
+    "name_uz": "Yangiyoʻl tumani",
+    "name_ru": "Янгиюльский район",
+    "coordinates": {
+      "lng": 69.0688944,
+      "lat": 41.1157854
+    },
+    "id": 27,
+    "cityId": 3
+  },
+  {
+    "name_uz": "Samarqand tumani",
+    "name_ru": "Самаркандский район",
+    "coordinates": {
+      "lng": 66.9759718,
+      "lat": 39.6532859
+    },
+    "id": 28,
+    "cityId": 2
+  },
+  {
+    "name_uz": "Bulungʻur tumani",
+    "name_ru": "Булунгурский район",
+    "coordinates": {
+      "lng": 67.2743979,
+      "lat": 39.7575942
+    },
+    "id": 29,
+    "cityId": 2
+  },
+  {
+    "name_uz": "Ishtixon tumani",
+    "name_ru": "Иштыханский район",
+    "coordinates": {
+      "lng": 66.4882576,
+      "lat": 39.9634011
+    },
+    "id": 30,
+    "cityId": 2
+  },
+  {
+    "name_uz": "Jomboy tumani",
+    "name_ru": "Джамбайский район",
+    "coordinates": {
+      "lng": 67.1013868,
+      "lat": 39.7028278
+    },
+    "id": 31,
+    "cityId": 2
+  },
+  {
+    "name_uz": "Kattaqoʻrgʻon tumani",
+    "name_ru": "Каттакурганский район",
+    "coordinates": {
+      "lng": 66.2300465,
+      "lat": 40.0106611
+    },
+    "id": 32,
+    "cityId": 2
+  },
+  {
+    "name_uz": "Qoʻshrabot tumani",
+    "name_ru": "Кошрабадский район",
+    "coordinates": {
+      "lng": 66.6446879,
+      "lat": 40.2468727
+    },
+    "id": 33,
+    "cityId": 2
+  },
+  {
+    "name_uz": "Narpay tumani",
+    "name_ru": "Нарпайский район",
+    "coordinates": {
+      "lng": 65.9255276,
+      "lat": 39.9212913
+    },
+    "id": 34,
+    "cityId": 2
+  },
+  {
+    "name_uz": "Nurobod tumani",
+    "name_ru": "Нурабадский район",
+    "coordinates": {
+      "lng": 66.2931169,
+      "lat": 39.6103865
+    },
+    "id": 35,
+    "cityId": 2
+  },
+  {
+    "name_uz": "Oqdaryo tumani",
+    "name_ru": "Акдарьинский район",
+    "coordinates": {
+      "lng": 66.7506844,
+      "lat": 39.8790856
+    },
+    "id": 36,
+    "cityId": 2
+  },
+  {
+    "name_uz": "Paxtachi tumani",
+    "name_ru": "Пахтачийский район",
+    "coordinates": {
+      "lng": 65.6782024,
+      "lat": 40.0390341
+    },
+    "id": 37,
+    "cityId": 2
+  },
+  {
+    "name_uz": "Payariq tumani",
+    "name_ru": "Пайарыкский район",
+    "coordinates": {
+      "lng": 66.8581192,
+      "lat": 39.9200724
+    },
+    "id": 38,
+    "cityId": 2
+  },
+  {
+    "name_uz": "Pastdargʻom tumani",
+    "name_ru": "Пастдаргомский район",
+    "coordinates": {
+      "lng": 66.6517732,
+      "lat": 39.7075083
+    },
+    "id": 39,
+    "cityId": 2
+  },
+  {
+    "name_uz": "Toyloq tumani",
+    "name_ru": "Тайлакский район",
+    "coordinates": {
+      "lng": 67.1733607,
+      "lat": 39.5734375
+    },
+    "id": 40,
+    "cityId": 2
+  },
+  {
+    "name_uz": "Urgut tumani",
+    "name_ru": "Ургутский район",
+    "coordinates": {
+      "lng": 67.2461061,
+      "lat": 39.4037655
+    },
+    "id": 41,
+    "cityId": 2
+  },
+  {
+    "name_uz": "Oltinko`l tuman",
+    "name_ru": "Алтынкульский район",
+    "coordinates": {
+      "lng": 72.1619529,
+      "lat": 40.8003972
+    },
+    "id": 42,
+    "cityId": 4
+  },
+  {
+    "name_uz": "Andijon tuman",
+    "name_ru": "Андижанский район",
+    "coordinates": {
+      "lng": 72.3449532,
+      "lat": 40.7870711
+    },
+    "id": 43,
+    "cityId": 4
+  },
+  {
+    "name_uz": "Asaka tuman",
+    "name_ru": "Асакинский район",
+    "coordinates": {
+      "lng": 72.2268847,
+      "lat": 40.6496809
+    },
+    "id": 44,
+    "cityId": 4
+  },
+  {
+    "name_uz": "Baliqchi tuman",
+    "name_ru": "Балыкчинский район",
+    "coordinates": {
+      "lng": 71.9491905,
+      "lat": 40.8767051
+    },
+    "id": 45,
+    "cityId": 4
+  },
+  {
+    "name_uz": "Bo`ston tuman",
+    "name_ru": "Бустанский район",
+    "coordinates": {
+      "lng": 71.8843153,
+      "lat": 40.7132793
+    },
+    "id": 46,
+    "cityId": 4
+  },
+  {
+    "name_uz": "Buloqboshi tuman",
+    "name_ru": "Булакбашинский район",
+    "coordinates": {
+      "lng": 72.3959085,
+      "lat": 40.6360433
+    },
+    "id": 47,
+    "cityId": 4
+  },
+  {
+    "name_uz": "Jalaquduq tuman",
+    "name_ru": "Джалакудукский район",
+    "coordinates": {
+      "lng": 72.6055034,
+      "lat": 40.7200297
+    },
+    "id": 48,
+    "cityId": 4
+  },
+  {
+    "name_uz": "Izboskan tuman",
+    "name_ru": "Избасканский район",
+    "coordinates": {
+      "lng": 72.2498829,
+      "lat": 40.8952006
+    },
+    "id": 49,
+    "cityId": 4
+  },
+  {
+    "name_uz": "Qo`rg`ontepa tuman",
+    "name_ru": "Кургантепинский район",
+    "coordinates": {
+      "lng": 72.7544315,
+      "lat": 40.7331154
+    },
+    "id": 50,
+    "cityId": 4
+  },
+  {
+    "name_uz": "Marhamat tuman",
+    "name_ru": "Мархаматский район",
+    "coordinates": {
+      "lng": 72.3143864,
+      "lat": 40.4950594
+    },
+    "id": 51,
+    "cityId": 4
+  },
+  {
+    "name_uz": "Paxtaobod tuman",
+    "name_ru": "Пахтаабадский район",
+    "coordinates": {
+      "lng": 72.4883965,
+      "lat": 40.9286991
+    },
+    "id": 52,
+    "cityId": 4
+  },
+  {
+    "name_uz": "Ulug`nor tuman",
+    "name_ru": "Улугнорский район",
+    "coordinates": {
+      "lng": 71.5402347,
+      "lat": 40.7451427
+    },
+    "id": 53,
+    "cityId": 4
+  },
+  {
+    "name_uz": "Xo`jaobod tuman",
+    "name_ru": "Ходжаабадский район",
+    "coordinates": {
+      "lng": 72.5617083,
+      "lat": 40.6655734
+    },
+    "id": 54,
+    "cityId": 4
+  },
+  {
+    "name_uz": "Shahrixon tuman",
+    "name_ru": "Шахриханский район",
+    "coordinates": {
+      "lng": 72.0541959,
+      "lat": 40.7053243
+    },
+    "id": 55,
+    "cityId": 4
+  },
+  {
+    "name_uz": "Arnasoy tumani",
+    "name_ru": "Арнасайский район,",
+    "coordinates": {
+      "lng": 67.7672513,
+      "lat": 40.5802364
+    },
+    "id": 56,
+    "cityId": 5
+  },
+  {
+    "name_uz": "Baxmal tumani",
+    "name_ru": "Бахмальский район",
+    "coordinates": {
+      "lng": 67.685194,
+      "lat": 39.7533799
+    },
+    "id": 57,
+    "cityId": 5
+  },
+  {
+    "name_uz": "Gʻallaorol tumani",
+    "name_ru": "Галляаральский район,",
+    "coordinates": {
+      "lng": 67.5337376,
+      "lat": 39.9826093
+    },
+    "id": 58,
+    "cityId": 5
+  },
+  {
+    "name_uz": "Jizzax tumani",
+    "name_ru": "Джизакский район,",
+    "coordinates": {
+      "lng": 67.8739272,
+      "lat": 40.1047079
+    },
+    "id": 59,
+    "cityId": 5
+  },
+  {
+    "name_uz": "Doʻstlik tumani",
+    "name_ru": "Дустликский район",
+    "coordinates": {
+      "lng": 68.0406432,
+      "lat": 40.5354304
+    },
+    "id": 60,
+    "cityId": 5
+  },
+  {
+    "name_uz": "Zomin tumani",
+    "name_ru": "Зааминский район,",
+    "coordinates": {
+      "lng": 68.3925744,
+      "lat": 39.9615521
+    },
+    "id": 61,
+    "cityId": 5
+  },
+  {
+    "name_uz": "Zarbdor tumani",
+    "name_ru": "Зарбдарский район,",
+    "coordinates": {
+      "lng": 68.1663336,
+      "lat": 40.0907748
+    },
+    "id": 62,
+    "cityId": 5
+  },
+  {
+    "name_uz": "Zafarobod tumani",
+    "name_ru": "Зафарабадский район,",
+    "coordinates": {
+      "lng": 68.8530755,
+      "lat": 40.171777
+    },
+    "id": 63,
+    "cityId": 5
+  },
+  {
+    "name_uz": "Mirzachoʻl tumani",
+    "name_ru": "Мирзачульский район, ",
+    "coordinates": {
+      "lng": 68.1738544,
+      "lat": 40.6573158
+    },
+    "id": 64,
+    "cityId": 5
+  },
+  {
+    "name_uz": "Paxtakor tumani",
+    "name_ru": "Пахтакорский район",
+    "coordinates": {
+      "lng": 67.9672489,
+      "lat": 40.3126985
+    },
+    "id": 65,
+    "cityId": 5
+  },
+  {
+    "name_uz": "Forish tumani",
+    "name_ru": "Фаришский район",
+    "coordinates": {
+      "lng": 67.1914275,
+      "lat": 40.3976446
+    },
+    "id": 66,
+    "cityId": 5
+  },
+  {
+    "name_uz": "Yangiobod tumani",
+    "name_ru": "Янгиабадский район",
+    "coordinates": {
+      "lng": 68.6740342,
+      "lat": 39.9851704
+    },
+    "id": 67,
+    "cityId": 5
+  },
+  {
+    "name_uz": "Chiroqchi tumani ",
+    "name_ru": "Чиракчинский район",
+    "coordinates": {
+      "lng": 66.2328364,
+      "lat": 39.215975
+    },
+    "id": 68,
+    "cityId": 6
+  },
+  {
+    "name_uz": "Dehqonobod tumani",
+    "name_ru": "Дехканабадский район",
+    "coordinates": {
+      "lng": 66.4776695,
+      "lat": 38.3554669
+    },
+    "id": 69,
+    "cityId": 6
+  },
+  {
+    "name_uz": "G'uzor tumani",
+    "name_ru": "Гузарский район ",
+    "coordinates": {
+      "lng": 66.2527822,
+      "lat": 38.6053849
+    },
+    "id": 70,
+    "cityId": 6
+  },
+  {
+    "name_uz": "Qamashi tumani",
+    "name_ru": "Камашинский район",
+    "coordinates": {
+      "lng": 66.4811024,
+      "lat": 38.8122563
+    },
+    "id": 71,
+    "cityId": 6
+  },
+  {
+    "name_uz": "Qarshi tumani",
+    "name_ru": "Каршинский район",
+    "coordinates": {
+      "lng": 65.607254,
+      "lat": 38.7838007
+    },
+    "id": 72,
+    "cityId": 6
+  },
+  {
+    "name_uz": "Koson tumani",
+    "name_ru": "Касанский район ",
+    "coordinates": {
+      "lng": 65.5979047,
+      "lat": 39.0517109
+    },
+    "id": 73,
+    "cityId": 6
+  },
+  {
+    "name_uz": "Kasbi tumani",
+    "name_ru": "Касбийский район",
+    "coordinates": {
+      "lng": 65.4032303,
+      "lat": 38.9191595
+    },
+    "id": 74,
+    "cityId": 6
+  },
+  {
+    "name_uz": "Kitob tumani",
+    "name_ru": "Китабский район",
+    "coordinates": {
+      "lng": 66.8246537,
+      "lat": 39.2226325
+    },
+    "id": 75,
+    "cityId": 6
+  },
+  {
+    "name_uz": "Mirishkor tumani",
+    "name_ru": "Миришкорский район ",
+    "coordinates": {
+      "lng": 65.209459,
+      "lat": 38.8854672
+    },
+    "id": 76,
+    "cityId": 6
+  },
+  {
+    "name_uz": "Muborak tumani",
+    "name_ru": "Мубарекский район",
+    "coordinates": {
+      "lng": 65.204263,
+      "lat": 39.253842
+    },
+    "id": 77,
+    "cityId": 6
+  },
+  {
+    "name_uz": "Nishon tumani",
+    "name_ru": "Нишанский район",
+    "coordinates": {
+      "lng": 65.5194152,
+      "lat": 38.5939443
+    },
+    "id": 78,
+    "cityId": 6
+  },
+  {
+    "name_uz": "Shahrisabz tumani",
+    "name_ru": "Шахрисабзский район ",
+    "coordinates": {
+      "lng": 66.85635,
+      "lat": 39.0853044
+    },
+    "id": 79,
+    "cityId": 6
+  },
+  {
+    "name_uz": "Yakkabog 'tumani",
+    "name_ru": "Яккабагский район ",
+    "coordinates": {
+      "lng": 66.7149329,
+      "lat": 38.9498109
+    },
+    "id": 80,
+    "cityId": 6
+  },
+  {
+    "name_uz": "Konimex tumani",
+    "name_ru": "Канимехский район",
+    "coordinates": {
+      "lng": 64.9845888,
+      "lat": 40.2659567
+    },
+    "id": 81,
+    "cityId": 7
+  },
+  {
+    "name_uz": "Karmana tumani",
+    "name_ru": "Карманинский район",
+    "coordinates": {
+      "lng": 65.3561305,
+      "lat": 40.1385839
+    },
+    "id": 82,
+    "cityId": 7
+  },
+  {
+    "name_uz": "Qiziltepa tumani",
+    "name_ru": "Кызылтепинский район",
+    "coordinates": {
+      "lng": 64.8305557,
+      "lat": 40.0257231
+    },
+    "id": 83,
+    "cityId": 7
+  },
+  {
+    "name_uz": "Navbahor tumani",
+    "name_ru": "Навбахорский район",
+    "coordinates": {
+      "lng": 65.2285232,
+      "lat": 40.2385217
+    },
+    "id": 84,
+    "cityId": 7
+  },
+  {
+    "name_uz": "Nurota tumani",
+    "name_ru": "Нуратинский район",
+    "coordinates": {
+      "lng": 65.7007375,
+      "lat": 40.5708672
+    },
+    "id": 85,
+    "cityId": 7
+  },
+  {
+    "name_uz": "Tomdi tumani",
+    "name_ru": "Тамдынский район",
+    "coordinates": {
+      "lng": 64.6111965,
+      "lat": 41.7548551
+    },
+    "id": 86,
+    "cityId": 7
+  },
+  {
+    "name_uz": "Uchquduq tumani",
+    "name_ru": "Учкудукский район",
+    "coordinates": {
+      "lng": 63.5799616,
+      "lat": 42.160756
+    },
+    "id": 87,
+    "cityId": 7
+  },
+  {
+    "name_uz": "Xatirchi tumani",
+    "name_ru": "Хатырчинский район",
+    "coordinates": {
+      "lng": 65.9757959,
+      "lat": 40.0493699
+    },
+    "id": 88,
+    "cityId": 7
+  },
+  {
+    "name_uz": "Kosonsoy tumani",
+    "name_ru": "Касансайский район",
+    "coordinates": {
+      "lng": 71.5513337,
+      "lat": 41.2425592
+    },
+    "id": 89,
+    "cityId": 8
+  },
+  {
+    "name_uz": "Mingbuloq tumani",
+    "name_ru": "Мингбулакский район",
+    "coordinates": {
+      "lng": 71.4623508,
+      "lat": 40.8462229
+    },
+    "id": 90,
+    "cityId": 8
+  },
+  {
+    "name_uz": "Namangan tumani",
+    "name_ru": "Наманганский район",
+    "coordinates": {
+      "lng": 71.6168237,
+      "lat": 40.9941234
+    },
+    "id": 91,
+    "cityId": 8
+  },
+  {
+    "name_uz": "Norin tumani (Oʻzbekiston)",
+    "name_ru": "Нарынский район",
+    "coordinates": {
+      "lng": 72.0979315,
+      "lat": 40.9198148
+    },
+    "id": 92,
+    "cityId": 8
+  },
+  {
+    "name_uz": "Pop tumani",
+    "name_ru": "Папский район",
+    "coordinates": {
+      "lng": 70.7286466,
+      "lat": 40.8695443
+    },
+    "id": 93,
+    "cityId": 8
+  },
+  {
+    "name_uz": "Toʻraqoʻrgʻon tumani",
+    "name_ru": "Туракурганский район",
+    "coordinates": {
+      "lng": 71.5104519,
+      "lat": 40.9920764
+    },
+    "id": 94,
+    "cityId": 8
+  },
+  {
+    "name_uz": "Uychi tumani",
+    "name_ru": "Уйчинский район",
+    "coordinates": {
+      "lng": 71.8677433,
+      "lat": 41.0349534
+    },
+    "id": 95,
+    "cityId": 8
+  },
+  {
+    "name_uz": "Uchqoʻrgʻon tumani",
+    "name_ru": "Учкурганский район",
+    "coordinates": {
+      "lng": 72.0813278,
+      "lat": 41.1192253
+    },
+    "id": 96,
+    "cityId": 8
+  },
+  {
+    "name_uz": "Chortoq tumani",
+    "name_ru": "Чартакский район",
+    "coordinates": {
+      "lng": 71.81514,
+      "lat": 41.0725538
+    },
+    "id": 97,
+    "cityId": 8
+  },
+  {
+    "name_uz": "Chust tumani",
+    "name_ru": "Чустский район",
+    "coordinates": {
+      "lng": 71.2266119,
+      "lat": 40.9971412
+    },
+    "id": 98,
+    "cityId": 8
+  },
+  {
+    "name_uz": "Yangiqoʻrgʻon tumani",
+    "name_ru": "Янгикурганский район",
+    "coordinates": {
+      "lng": 71.7269203,
+      "lat": 41.191827
+    },
+    "id": 99,
+    "cityId": 8
+  },
+  {
+    "name_uz": "Oltinsoy tumani",
+    "name_ru": "Алтынсайский",
+    "coordinates": {
+      "lng": 67.7611857,
+      "lat": 38.1668212
+    },
+    "id": 100,
+    "cityId": 9
+  },
+  {
+    "name_uz": "Angor tumani",
+    "name_ru": "Ангорский",
+    "coordinates": {
+      "lng": 67.11368,
+      "lat": 37.508666
+    },
+    "id": 101,
+    "cityId": 9
+  },
+  {
+    "name_uz": "Boysun tumani",
+    "name_ru": "Байсунский",
+    "coordinates": {
+      "lng": 67.205318,
+      "lat": 38.1840891
+    },
+    "id": 102,
+    "cityId": 9
+  },
+  {
+    "name_uz": "Denov tumani",
+    "name_ru": "Денауский",
+    "coordinates": {
+      "lng": 67.894692,
+      "lat": 38.2731636
+    },
+    "id": 103,
+    "cityId": 9
+  },
+  {
+    "name_uz": "Jarqoʻrgʻon tumani",
+    "name_ru": "Джаркурганский",
+    "coordinates": {
+      "lng": 67.4169407,
+      "lat": 37.5182191
+    },
+    "id": 104,
+    "cityId": 9
+  },
+  {
+    "name_uz": "Qiziriq tumani",
+    "name_ru": "Кизирикский",
+    "coordinates": {
+      "lng": 67.236127,
+      "lat": 37.6691862
+    },
+    "id": 105,
+    "cityId": 9
+  },
+  {
+    "name_uz": "Qumqoʻrgʻon tumani",
+    "name_ru": "Кумкурганский",
+    "coordinates": {
+      "lng": 67.5905883,
+      "lat": 37.8318508
+    },
+    "id": 106,
+    "cityId": 9
+  },
+  {
+    "name_uz": "Muzrabot tumani",
+    "name_ru": "Музрабадский",
+    "coordinates": {
+      "lng": 66.9267587,
+      "lat": 37.4561743
+    },
+    "id": 107,
+    "cityId": 9
+  },
+  {
+    "name_uz": "Sariosiyo tumani",
+    "name_ru": "Сариасийский",
+    "coordinates": {
+      "lng": 68.0918575,
+      "lat": 38.5019828
+    },
+    "id": 108,
+    "cityId": 9
+  },
+  {
+    "name_uz": "Termiz tumani",
+    "name_ru": "Термезский",
+    "coordinates": {
+      "lng": 67.2483421,
+      "lat": 37.2441291
+    },
+    "id": 109,
+    "cityId": 9
+  },
+  {
+    "name_uz": "Uzun tumani",
+    "name_ru": "Узунский",
+    "coordinates": {
+      "lng": 67.9981641,
+      "lat": 38.375476
+    },
+    "id": 110,
+    "cityId": 9
+  },
+  {
+    "name_uz": "Sherobod tumani",
+    "name_ru": "Шерабадский",
+    "coordinates": {
+      "lng": 67.0038903,
+      "lat": 37.669327
+    },
+    "id": 111,
+    "cityId": 9
+  },
+  {
+    "name_uz": "Shoʻrchi tumani",
+    "name_ru": "Шурчинский",
+    "coordinates": {
+      "lng": 67.7901698,
+      "lat": 38.0091284
+    },
+    "id": 112,
+    "cityId": 9
+  },
+  {
+    "name_uz": "Oqoltin tumani.",
+    "name_ru": "Акалтынский район",
+    "coordinates": {
+      "lng": 68.413246,
+      "lat": 40.5446351
+    },
+    "id": 113,
+    "cityId": 10
+  },
+  {
+    "name_uz": "Boyovut tumani",
+    "name_ru": "Баяутский район",
+    "coordinates": {
+      "lng": 69.0231061,
+      "lat": 40.2807656
+    },
+    "id": 114,
+    "cityId": 10
+  },
+  {
+    "name_uz": "Guliston tumani.",
+    "name_ru": "Гулистанский район",
+    "coordinates": {
+      "lng": 68.7875362,
+      "lat": 40.4917795
+    },
+    "id": 115,
+    "cityId": 10
+  },
+  {
+    "name_uz": "Mirzaobod tumani",
+    "name_ru": "Мирзаабадский район",
+    "coordinates": {
+      "lng": 68.5438571,
+      "lat": 40.5013678
+    },
+    "id": 116,
+    "cityId": 10
+  },
+  {
+    "name_uz": "Sayxunobod tumani",
+    "name_ru": "Сайхунабадский район",
+    "coordinates": {
+      "lng": 68.0880749,
+      "lat": 40.3144063
+    },
+    "id": 117,
+    "cityId": 10
+  },
+  {
+    "name_uz": "Sardoba tumani",
+    "name_ru": "Сардобинский район",
+    "coordinates": {
+      "lng": 68.8898625,
+      "lat": 40.6194078
+    },
+    "id": 118,
+    "cityId": 10
+  },
+  {
+    "name_uz": "Sirdaryo tumani.",
+    "name_ru": " Сырдарьинский район ",
+    "coordinates": {
+      "lng": 68.7766183,
+      "lat": 40.4778084
+    },
+    "id": 119,
+    "cityId": 10
+  },
+  {
+    "name_uz": "Oltiariq tumani",
+    "name_ru": "Алтыарыкский район",
+    "coordinates": {
+      "lng": 71.5046554,
+      "lat": 40.400703
+    },
+    "id": 120,
+    "cityId": 11
+  },
+  {
+    "name_uz": "Bag’dod tumani",
+    "name_ru": " Багдадский район",
+    "coordinates": {
+      "lng": 71.221,
+      "lat": 40.504
+    },
+    "id": 121,
+    "cityId": 11
+  },
+  {
+    "name_uz": "Beshariq tumani",
+    "name_ru": "Бешарыкский район",
+    "coordinates": {
+      "lng": 70.616,
+      "lat": 40.417
+    },
+    "id": 122,
+    "cityId": 11
+  },
+  {
+    "name_uz": "Buvayda tumani",
+    "name_ru": "Бувайдинский район",
+    "coordinates": {
+      "lng": 71.522048,
+      "lat": 41.005098
+    },
+    "id": 123,
+    "cityId": 11
+  },
+  {
+    "name_uz": "Dang’ara tumani",
+    "name_ru": "Дангаринский район ",
+    "coordinates": {
+      "lng": 70.917006,
+      "lat": 40.580453
+    },
+    "id": 124,
+    "cityId": 11
+  },
+  {
+    "name_uz": "Quva tumani",
+    "name_ru": "Кувинский район",
+    "coordinates": {
+      "lng": 72.061667,
+      "lat": 40.523333
+    },
+    "id": 125,
+    "cityId": 11
+  },
+  {
+    "name_uz": "Qo’shtepa tumani",
+    "name_ru": "Куштепинский район",
+    "coordinates": {
+      "lng": 71.907098,
+      "lat": 40.269845
+    },
+    "id": 126,
+    "cityId": 11
+  },
+  {
+    "name_uz": "Rishton tumani",
+    "name_ru": "Риштанский район",
+    "coordinates": {
+      "lng": 71.284722,
+      "lat": 40.356667
+    },
+    "id": 127,
+    "cityId": 11
+  },
+  {
+    "name_uz": "So’x tumani",
+    "name_ru": "Сохский район",
+    "coordinates": {
+      "lng": 71.133333,
+      "lat": 39.95
+    },
+    "id": 128,
+    "cityId": 11
+  },
+  {
+    "name_uz": "Toshloq tumani",
+    "name_ru": "Ташлакский район",
+    "coordinates": {
+      "lng": 71.832,
+      "lat": 40.527
+    },
+    "id": 129,
+    "cityId": 11
+  },
+  {
+    "name_uz": "O’zbekiston tumani",
+    "name_ru": "Узбекистанский район",
+    "coordinates": {
+      "lng": 70.803,
+      "lat": 40.374
+    },
+    "id": 130,
+    "cityId": 11
+  },
+  {
+    "name_uz": "Uchko’prik tumani",
+    "name_ru": "Учкуприкский район",
+    "coordinates": {
+      "lng": 71.0258,
+      "lat": 40.5111
+    },
+    "id": 131,
+    "cityId": 11
+  },
+  {
+    "name_uz": "Farg’ona tumani",
+    "name_ru": "Ферганский район",
+    "coordinates": {
+      "lng": 71.31,
+      "lat": 40.491667
+    },
+    "id": 132,
+    "cityId": 11
+  },
+  {
+    "name_uz": "Furqat tumani",
+    "name_ru": "Фуркатский район",
+    "coordinates": {
+      "lng": 70.741,
+      "lat": 40.5015
+    },
+    "id": 133,
+    "cityId": 11
+  },
+  {
+    "name_uz": "Yozyavon tumani",
+    "name_ru": "Язъяванский район",
+    "coordinates": {
+      "lng": 71.643056,
+      "lat": 40.653056
+    },
+    "id": 134,
+    "cityId": 11
+  },
+  {
+    "name_uz": "Bogʻot tumani",
+    "name_ru": "Багатский район",
+    "coordinates": {
+      "lng": 60.8151667,
+      "lat": 41.3525753
+    },
+    "id": 135,
+    "cityId": 12
+  },
+  {
+    "name_uz": "Gurlan tumani",
+    "name_ru": "Гурленский район",
+    "coordinates": {
+      "lng": 60.3797576,
+      "lat": 41.8356233
+    },
+    "id": 136,
+    "cityId": 12
+  },
+  {
+    "name_uz": "Qoʻshkoʻpir tumani",
+    "name_ru": "Кошкупырский район",
+    "coordinates": {
+      "lng": 60.3481237,
+      "lat": 41.5271236
+    },
+    "id": 137,
+    "cityId": 12
+  },
+  {
+    "name_uz": "Urganch tumani",
+    "name_ru": "Ургенчский район",
+    "coordinates": {
+      "lng": 60.5925417,
+      "lat": 41.5564336
+    },
+    "id": 138,
+    "cityId": 12
+  },
+  {
+    "name_uz": "Hazorasp tumani",
+    "name_ru": "Хазараспский район ",
+    "coordinates": {
+      "lng": 61.0829991,
+      "lat": 41.3119749
+    },
+    "id": 139,
+    "cityId": 12
+  },
+  {
+    "name_uz": "Xonqa tumani",
+    "name_ru": "Ханкинский район",
+    "coordinates": {
+      "lng": 60.7813072,
+      "lat": 41.4737182
+    },
+    "id": 140,
+    "cityId": 12
+  },
+  {
+    "name_uz": "Xiva tumani",
+    "name_ru": "Хивинский район",
+    "coordinates": {
+      "lng": 60.3761917,
+      "lat": 41.3781983
+    },
+    "id": 141,
+    "cityId": 12
+  },
+  {
+    "name_uz": "Shovot tumani",
+    "name_ru": "Шаватский район",
+    "coordinates": {
+      "lng": 60.296767,
+      "lat": 41.6554827
+    },
+    "id": 142,
+    "cityId": 12
+  },
+  {
+    "name_uz": "Yangiariq tumani",
+    "name_ru": "Янгиарыкский район",
+    "coordinates": {
+      "lng": 60.5994724,
+      "lat": 41.3706301
+    },
+    "id": 143,
+    "cityId": 12
+  },
+  {
+    "name_uz": "Yangibozor tumani",
+    "name_ru": "Янгибазарский район",
+    "coordinates": {
+      "lng": 60.5283291,
+      "lat": 41.7035578
+    },
+    "id": 144,
+    "cityId": 12
+  },
+  {
+    "name_uz": "Shofirkon tumani",
+    "name_ru": "Шафирканский район",
+    "coordinates": {
+      "lng": 64.4915204,
+      "lat": 40.1221608
+    },
+    "id": 145,
+    "cityId": 13
+  },
+  {
+    "name_uz": "Romitan tumani",
+    "name_ru": "Ромитанский район",
+    "coordinates": {
+      "lng": 64.3435759,
+      "lat": 39.9372405
+    },
+    "id": 146,
+    "cityId": 13
+  },
+  {
+    "name_uz": "Peshku tumani",
+    "name_ru": "Пешкунский район",
+    "coordinates": {
+      "lng": 63.3257926,
+      "lat": 40.8450305
+    },
+    "id": 147,
+    "cityId": 13
+  },
+  {
+    "name_uz": "Qorovulbozor tumani",
+    "name_ru": "Караулбазарский район,",
+    "coordinates": {
+      "lng": 64.7864204,
+      "lat": 39.4979541
+    },
+    "id": 148,
+    "cityId": 13
+  },
+  {
+    "name_uz": "Qorakoʻl tumani",
+    "name_ru": "Каракульский район",
+    "coordinates": {
+      "lng": 62.6504086,
+      "lat": 40.058843
+    },
+    "id": 149,
+    "cityId": 13
+  },
+  {
+    "name_uz": "Kogon tumani",
+    "name_ru": "Каганский район,",
+    "coordinates": {
+      "lng": 64.5368265,
+      "lat": 39.7211097
+    },
+    "id": 150,
+    "cityId": 13
+  },
+  {
+    "name_uz": "Jondor tumani",
+    "name_ru": "\tЖондорский район,",
+    "coordinates": {
+      "lng": 64.0862936,
+      "lat": 39.7387997
+    },
+    "id": 151,
+    "cityId": 13
+  },
+  {
+    "name_uz": "Gʻijduvon tumani",
+    "name_ru": "Гиждуванский район,",
+    "coordinates": {
+      "lng": 64.9951859,
+      "lat": 40.5361628
+    },
+    "id": 152,
+    "cityId": 13
+  },
+  {
+    "name_uz": "Vobkent tumani",
+    "name_ru": "Вабкентский район,",
+    "coordinates": {
+      "lng": 64.5285835,
+      "lat": 40.0184939
+    },
+    "id": 153,
+    "cityId": 13
+  },
+  {
+    "name_uz": "Buxoro tumani",
+    "name_ru": "Бухарский район,",
+    "coordinates": {
+      "lng": 64.153521,
+      "lat": 40.0214301
+    },
+    "id": 154,
+    "cityId": 13
+  },
+  {
+    "name_uz": "Olot tumani",
+    "name_ru": "Алатский район, ",
+    "coordinates": {
+      "lng": 63.8022561,
+      "lat": 39.4138337
+    },
+    "id": 155,
+    "cityId": 13
+  },
+  {
+    "name_uz": "Amudaryo",
+    "name_ru": "Амударьинский",
+    "coordinates": {
+      "lng": 60.0672607,
+      "lat": 42.1067623
+    },
+    "id": 156,
+    "cityId": 14
+  },
+  {
+    "name_uz": "Beruniy",
+    "name_ru": "Берунийский",
+    "coordinates": {
+      "lng": 60.7328468,
+      "lat": 41.6886057
+    },
+    "id": 157,
+    "cityId": 14
+  },
+  {
+    "name_uz": "Boʻzatov",
+    "name_ru": "Бозатауский",
+    "coordinates": {
+      "lng": 59.3146169,
+      "lat": 42.9958825
+    },
+    "id": 158,
+    "cityId": 14
+  },
+  {
+    "name_uz": "Qanlikoʻl",
+    "name_ru": "Канлыкульский",
+    "coordinates": {
+      "lng": 58.9979191,
+      "lat": 42.8264269
+    },
+    "id": 159,
+    "cityId": 14
+  },
+  {
+    "name_uz": "Qoraoʻzak",
+    "name_ru": "Караузякский",
+    "coordinates": {
+      "lng": 60.0241556,
+      "lat": 43.0320502
+    },
+    "id": 160,
+    "cityId": 14
+  },
+  {
+    "name_uz": "Kegeyli",
+    "name_ru": "Кегейлийский",
+    "coordinates": {
+      "lng": 59.6053027,
+      "lat": 42.7729128
+    },
+    "id": 161,
+    "cityId": 14
+  },
+  {
+    "name_uz": "Qoʻng’irot",
+    "name_ru": "Кунградский",
+    "coordinates": {
+      "lng": 58.846556,
+      "lat": 43.0447827
+    },
+    "id": 162,
+    "cityId": 14
+  },
+  {
+    "name_uz": "Moʻynoq",
+    "name_ru": "Муйнакский",
+    "coordinates": {
+      "lng": 59.0316327,
+      "lat": 43.7602269
+    },
+    "id": 163,
+    "cityId": 14
+  },
+  {
+    "name_uz": "Nukus",
+    "name_ru": "Нукусский",
+    "coordinates": {
+      "lng": 59.5351412,
+      "lat": 42.5947796
+    },
+    "id": 164,
+    "cityId": 14
+  },
+  {
+    "name_uz": "Taxiatosh",
+    "name_ru": "Тахиаташский",
+    "coordinates": {
+      "lng": 59.5787896,
+      "lat": 42.3396828
+    },
+    "id": 165,
+    "cityId": 14
+  },
+  {
+    "name_uz": "Taxtakoʻpir",
+    "name_ru": "Тахтакупырский",
+    "coordinates": {
+      "lng": 60.2929865,
+      "lat": 43.0184391
+    },
+    "id": 166,
+    "cityId": 14
+  },
+  {
+    "name_uz": "Toʻrtkoʻl",
+    "name_ru": "Турткульский",
+    "coordinates": {
+      "lng": 61.0324231,
+      "lat": 41.5394598
+    },
+    "id": 167,
+    "cityId": 14
+  },
+  {
+    "name_uz": "Xoʻjayli",
+    "name_ru": "Ходжейлийский",
+    "coordinates": {
+      "lng": 59.431552,
+      "lat": 42.4065487
+    },
+    "id": 168,
+    "cityId": 14
+  },
+  {
+    "name_uz": "Chimboy",
+    "name_ru": "Чимбайский",
+    "coordinates": {
+      "lng": 59.7743142,
+      "lat": 42.9338796
+    },
+    "id": 169,
+    "cityId": 14
+  },
+  {
+    "name_uz": "Shumanoy",
+    "name_ru": "Шуманайский",
+    "coordinates": {
+      "lng": 58.9229165,
+      "lat": 42.6419567
+    },
+    "id": 170,
+    "cityId": 14
+  },
+  {
+    "name_uz": "Ellikqalʼa",
+    "name_ru": "Элликкалинский",
+    "coordinates": {
+      "lng": 60.9101445,
+      "lat": 41.8424917
+    },
+    "id": 171,
+    "cityId": 14
+  },
+  {
+    "name_uz": "Nukus",
+    "name_ru": "Нукус город",
+    "coordinates": {
+      "lng": 59.5632445,
+      "lat": 42.4498186
+    },
+    "id": 172,
+    "cityId": 14
+  },
+  {
+    "name_uz": "Uchtepa tumani",
+    "name_ru": "Учтепинский район",
+    "coordinates": {
+      "lng": 69.1742941,
+      "lat": 41.2983045
+    },
+    "id": 173,
+    "cityId": 1
+  },
+  {
+    "name_uz": "Yangi Hayot tumani",
+    "name_ru": "Район Янги хаёт",
+    "coordinates": {
+      "lng": 69.2301066,
+      "lat": 41.2133711
+    },
+    "id": 174,
+    "cityId": 1
+  }
+]
