@@ -34,6 +34,13 @@ bot.action('action3_uz', async (msg, next) => {
     next()
 })
 
+function startBotUz(msg) {
+    information = {}
+    userStep = 1
+    doubleContact = false
+    return FunctionStemp = []
+}
+
 let Uzbek = (msg) => {
     try {
         const chat_id = msg.chat.id
@@ -43,6 +50,20 @@ let Uzbek = (msg) => {
             console.log(msg.message.text)
             FunctionStemp.push(stemp1.uz)
             return stemp2.uz(chat_id, msg)
+        }
+        else if (msg.message.text == '🏠 Bosh sahifa') {
+            userStep = 1
+            FunctionStemp = []
+            doubleContact = false
+            return stemp1.uz(chat_id, msg)
+        }
+
+        else if (msg.message.text == '↩️ Orqaga' && [1, 2, 3, 4, 5, 6, 7, 8, 9].includes(userStep)) {
+            if (!FunctionStemp.length) return
+            --userStep
+            doubleContact = false
+            console.log(FunctionStemp[FunctionStemp.length - 1])
+            return FunctionStemp.pop()(chat_id, msg, information)
         }
         else if (cities.map(el => el.name_uz).includes(msg.message.text) && userStep == 2) {
             ++userStep
@@ -96,23 +117,13 @@ let Uzbek = (msg) => {
             return stemp7.uz(chat_id, msg)
         }
 
-        else if (msg.message.text == '🏠 Bosh sahifa') {
-            userStep = 1
-            FunctionStemp = []
-            return stemp1.uz(chat_id, msg)
-        }
-
-        else if (msg.message.text == '↩️ Orqaga' && [1, 2, 3, 4, 5, 6, 7, 8, 9].includes(userStep)) {
-            if (!FunctionStemp.length) return
-            --userStep
-            doubleContact = false
-            console.log(FunctionStemp[FunctionStemp.length - 1])
-            return FunctionStemp.pop()(chat_id, msg, information)
-        }
     } catch (error) {
         console.log(error.message)
     }
 
 }
 
-module.exports = Uzbek
+module.exports = {
+    Uzbek,
+    startBotUz
+}

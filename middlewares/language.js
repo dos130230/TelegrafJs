@@ -1,7 +1,7 @@
 
 const { bot } = require('../core/bot')
-const Uzbek = require('../controllers/uzbek')
-const Russia = require('../controllers/russia')
+const {Uzbek} = require('../controllers/uzbek')
+const {Russia} = require('../controllers/russia')
 let language;
 
 bot.use((msg, next) => {

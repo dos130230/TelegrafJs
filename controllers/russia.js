@@ -13,6 +13,14 @@ let FunctionStemp = []
 let information = {}
 let userStep = 1
 
+function startBotRu(msg) {
+    information = {}
+    doubleContact = false
+    userStep = 1
+    return FunctionStemp = []
+}
+
+
 
 
 
@@ -39,12 +47,23 @@ bot.action('action3_ru', async (msg, next) => {
 let Russia = (msg) => {
     try {
         const chat_id = msg.chat.id
-        console.log(msg.message.text)
+        // console.log(msg.message.text)
         if (msg.message.text === '🇳🇱 Russian' && userStep == 1) {
             information.language = 'ru'
             ++userStep
             FunctionStemp.push(stemp1.ru)
             return stemp2.ru(chat_id, msg)
+        } else if (msg.message.text == '🏠 Главная') {
+            userStep = 1
+            doubleContact = false
+            FunctionStemp = []
+            return stemp1.ru(chat_id, msg)
+        }
+        else if (msg.message.text == '↩️ Назад' && [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11].includes(userStep)) {
+            if (!FunctionStemp.length) return
+            --userStep
+            doubleContact = false
+            return FunctionStemp.pop()(chat_id, msg, information)
         }
 
         else if (cities.map(el => el.name_ru).includes(msg.message.text) && userStep == 2) {
@@ -98,21 +117,14 @@ let Russia = (msg) => {
             FunctionStemp.push(stemp6.ru)
             return stemp7.ru(chat_id, msg)
         }
-        else if (msg.message.text == '🏠 Главная') {
-            userStep = 1
-            FunctionStemp = []
-            return stemp1.ru(chat_id, msg)
-        }
 
-        else if (msg.message.text == '↩️ Назад' && [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11].includes(userStep)) {
-            if (!FunctionStemp.length) return
-            --userStep
-            doubleContact = false
-            return FunctionStemp.pop()(chat_id, msg, information)
-        }
     } catch (error) {
         console.log(error.message)
     }
 }
 
-module.exports = Russia
+module.exports = {
+    Russia,
+    startBotRu
+}
+
