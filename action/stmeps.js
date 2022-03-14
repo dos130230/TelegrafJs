@@ -26,11 +26,9 @@ const stemp2 = {
 // Tumani beradi
 const stemp3 = {
     uz: (chat_id, msg, information) => {
-        // console.log(information)
         return msg.telegram.sendMessage(chat_id, 'Siz qaysi tumanda turibsiz?\n\nTumanlardan birini tanlang 👇', keyboard3(information?.cities?.id, 'name_uz'))
     },
     ru: (chat_id, msg, information) => {
-        // console.log(information)
         return msg.telegram.sendMessage(chat_id, 'В каком районе вы живете?\n\nВыберите один из районов 👇', keyboard3(information?.cities?.id, 'name_ru'))
     }
 

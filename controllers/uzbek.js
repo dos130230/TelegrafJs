@@ -34,12 +34,13 @@ bot.action('action3_uz', async (msg, next) => {
     next()
 })
 
-function startBotUz(msg) {
+function startBotUz(msg,number) {
     information = {}
-    userStep = 1
+    userStep = number
     doubleContact = false
     return FunctionStemp = []
 }
+
 
 let Uzbek = (msg) => {
     try {
@@ -47,7 +48,6 @@ let Uzbek = (msg) => {
         if (msg.message.text === '🇺🇿 Uzbek' && userStep == 1) {
             information.language = 'uz'
             ++userStep
-            console.log(msg.message.text)
             FunctionStemp.push(stemp1.uz)
             return stemp2.uz(chat_id, msg)
         }
@@ -62,7 +62,6 @@ let Uzbek = (msg) => {
             if (!FunctionStemp.length) return
             --userStep
             doubleContact = false
-            console.log(FunctionStemp[FunctionStemp.length - 1])
             return FunctionStemp.pop()(chat_id, msg, information)
         }
         else if (cities.map(el => el.name_uz).includes(msg.message.text) && userStep == 2) {

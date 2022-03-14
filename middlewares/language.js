@@ -4,9 +4,9 @@ const {Uzbek} = require('../controllers/uzbek')
 const {Russia} = require('../controllers/russia')
 let language;
 
+
 bot.use((msg, next) => {
     try {
-
         if (!['text', 'location', 'contact'].includes(msg.updateSubTypes[0])) return
         if (msg?.message?.text === '🇺🇿 Uzbek') {
             language = 'uz'
@@ -27,6 +27,5 @@ bot.use((msg, next) => {
     } catch (error) {
         console.log(error.message)
     }
-
 
 })

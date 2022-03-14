@@ -13,21 +13,16 @@ let FunctionStemp = []
 let information = {}
 let userStep = 1
 
-function startBotRu(msg) {
+function startBotRu(msg,number) {
     information = {}
     doubleContact = false
-    userStep = 1
+    userStep = number
     return FunctionStemp = []
 }
-
-
-
-
 
 bot.action('action1_ru', async (msg, next) => {
     await msg.telegram.sendMessage(msg.chat.id, textMessage.definition_result, keyboard6[1][2])
     await msg.telegram.sendMessage(msg.chat.id, JSON.stringify(information))
-    console.log(information)
 
     next()
 })
@@ -47,7 +42,6 @@ bot.action('action3_ru', async (msg, next) => {
 let Russia = (msg) => {
     try {
         const chat_id = msg.chat.id
-        // console.log(msg.message.text)
         if (msg.message.text === '🇳🇱 Russian' && userStep == 1) {
             information.language = 'ru'
             ++userStep

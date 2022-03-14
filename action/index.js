@@ -1,3 +1,2 @@
-require('./help')
-require('./practice')
 require('./auth')
+require('./help')
