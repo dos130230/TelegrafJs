@@ -11,7 +11,7 @@ const cities = readJson.select('cities')
 let doubleContact = false
 let FunctionStemp = []
 let information = {}
-let userStep = 1
+let userStep;
 
 function startBotRu(msg,number) {
     information = {}

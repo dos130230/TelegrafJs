@@ -12,7 +12,7 @@ const cities = readJson.select('cities')
 let doubleContact = false
 let FunctionStemp = []
 let information = {}
-let userStep = 1
+let userStep ;
 
 bot.action('action1_uz', async (msg, next) => {
     await msg.telegram.sendMessage(msg.chat.id, textMessage.definition_result, keyboard6[0][2])
@@ -35,6 +35,7 @@ bot.action('action3_uz', async (msg, next) => {
 })
 
 function startBotUz(msg,number) {
+    console.log(number)
     information = {}
     userStep = number
     doubleContact = false
@@ -51,7 +52,7 @@ let Uzbek = (msg) => {
             FunctionStemp.push(stemp1.uz)
             return stemp2.uz(chat_id, msg)
         }
-        else if (msg.message.text == '🏠 Bosh sahifa') {
+        else if (msg.message.text == '🏠 Bosh sahifa' &&  [1, 2, 3, 4, 5, 6, 7, 8, 9].includes(userStep)) {
             userStep = 1
             FunctionStemp = []
             doubleContact = false
