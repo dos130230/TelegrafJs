@@ -1,5 +1,7 @@
 const { bot } = require('../core/bot')
 
-bot.help( ctx => {
+bot.command( 'language',ctx => {
     ctx.reply('/help yordan sorash')
 })
+
+

@@ -1,2 +1,2 @@
 require('./auth')
-require('./help')
+require('./comands')
