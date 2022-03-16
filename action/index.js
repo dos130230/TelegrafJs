@@ -1,2 +1,2 @@
-require('./auth')
 require('./comands')
+require('./stmeps')

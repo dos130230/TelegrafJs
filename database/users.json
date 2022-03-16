@@ -1,10 +1,26 @@
 [
     {
+        "contact": "998903977739",
+        "telegram_id": 479901,
+        "firstname": "Farrux",
+        "lastname": "Bahodirov",
+        "birthDate": "1993-08-29",
+        "user_id": 2
+    },
+    {
         "contact": "+998901328277",
         "telegram_id": 2125760802,
-        "firstname": "dfgh",
-        "lastname": "ukyjthrgef",
-        "birthDate": "lkhjghgdf",
-        "user_id": 1
+        "firstname": "🇺🇿 Uzbek",
+        "lastname": "Dostonbke",
+        "birthDate": "Jurakulov",
+        "user_id": 3
+    },
+    {
+        "contact": "998997414691",
+        "telegram_id": 1892939498,
+        "firstname": "Dori",
+        "lastname": "Tory",
+        "birthDate": "Golden",
+        "user_id": 4
     }
 ]

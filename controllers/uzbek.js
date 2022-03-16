@@ -35,7 +35,6 @@ bot.action('action3_uz', async (msg, next) => {
 })
 
 function startBotUz(msg,number) {
-    console.log(number)
     information = {}
     userStep = number
     doubleContact = false
